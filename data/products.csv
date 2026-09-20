@@ -1,0 +1,8 @@
+sku,name,category,fit,size,price,programs,protection_class,embellishable
+JKT-W-AR1-M,Women's FR Utility Jacket,FR outerwear,Women's,M,148.0,UTILITY-104,Program-approved FR outerwear,True
+JKT-W-AR2-M,Women's FR Lightweight Jacket,FR outerwear,Women's,M,109.0,UTILITY-104,Program-approved FR outerwear,True
+JKT-W-AR3-M,Women's FR Insulated Jacket,FR outerwear,Women's,M,174.0,UTILITY-104,Program-approved FR outerwear,True
+SHRT-W-FR-S,Women's FR Work Shirt,FR shirt,Women's,S,72.0,UTILITY-104,Program-approved FR shirt,True
+SHRT-W-FR-S-P,Women's FR Performance Shirt,FR shirt,Women's,S,84.0,UTILITY-104,Program-approved FR shirt,True
+JKT-M-FR-L,Men's FR Field Jacket,FR outerwear,Men's,L,135.0,FIELD-201,Program-approved FR outerwear,True
+PANT-M-FR-34,Men's FR Work Pant,FR pant,Men's,34x32,88.0,FIELD-201,Program-approved FR pant,False

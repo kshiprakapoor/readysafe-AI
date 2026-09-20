@@ -1,0 +1,26 @@
+{
+  "UTILITY-104": {
+    "program_name": "Utility FR Protection Program",
+    "annual_allowance": 600,
+    "approved_categories": [
+      "FR outerwear",
+      "FR shirt"
+    ],
+    "approval_threshold_over_allowance": 0.01,
+    "return_window_days": 60,
+    "embellished_returns_allowed": false,
+    "notes": "Use only employer-approved catalog items. AI may not override PPE policy."
+  },
+  "FIELD-201": {
+    "program_name": "Field Operations FR Program",
+    "annual_allowance": 500,
+    "approved_categories": [
+      "FR outerwear",
+      "FR pant"
+    ],
+    "approval_threshold_over_allowance": 0.01,
+    "return_window_days": 60,
+    "embellished_returns_allowed": false,
+    "notes": "Use only employer-approved catalog items. AI may not override PPE policy."
+  }
+}

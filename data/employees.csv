@@ -1,0 +1,5 @@
+employee_id,name,role,location,program_id,size_top,size_bottom,fit_preference,allowance_remaining,active,next_shift
+E1042,Maria Alvarez,Utility Technician,Houston,UTILITY-104,M,M,Women's,100.0,True,2026-09-20 06:00
+E2177,James Carter,Field Technician,Houston,FIELD-201,L,34x32,Men's,425.0,True,2026-09-22 07:00
+E3308,Aisha Thompson,Electrical Engineer,Houston,UTILITY-104,S,S,Women's,180.0,True,2026-09-21 05:30
+E4190,Daniel Kim,Maintenance Technician,Midland,FIELD-201,M,32x30,Men's,95.0,True,2026-09-20 18:00

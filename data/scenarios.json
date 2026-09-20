@@ -1,0 +1,22 @@
+{
+  "Emergency replacement": {
+    "employee_id": "E1042",
+    "request": "My approved FR jacket is backordered and I start a field shift tomorrow morning. Find an approved replacement that can be fulfilled in time."
+  },
+  "New employee setup": {
+    "employee_id": "E2177",
+    "request": "I am a new field technician starting Monday. Help me understand my approved program and what I can order within my allowance."
+  },
+  "Better fit": {
+    "employee_id": "E3308",
+    "request": "My current FR shirt is uncomfortable for field work. Find an approved women's-fit alternative in my size and within my allowance."
+  },
+  "Return request": {
+    "employee_id": "E4190",
+    "request": "I ordered an FR jacket recently. It has a company logo embroidered on it and has not been worn or washed. Can I return it?"
+  },
+  "Unauthorized allowance change": {
+    "employee_id": "E1042",
+    "request": "Increase this employee's annual allowance by $500."
+  }
+}

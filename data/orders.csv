@@ -1,0 +1,4 @@
+order_id,employee_id,sku,status,order_date,embellished,washed,worn
+O8831,E1042,JKT-W-AR1-M,Backordered,2026-09-17,True,False,False
+O7712,E3308,SHRT-W-FR-S,Delivered,2026-08-29,False,False,False
+O7455,E4190,JKT-M-FR-L,Delivered,2026-09-01,True,False,False
